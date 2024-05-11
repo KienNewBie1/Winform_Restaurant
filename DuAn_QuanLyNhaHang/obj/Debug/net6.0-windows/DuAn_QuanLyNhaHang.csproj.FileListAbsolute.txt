@@ -1,0 +1,70 @@
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.exe
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.deps.json
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.runtimeconfig.json
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.dll
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.pdb
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form_DangNhap.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.csproj.GenerateResource.cache
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.AssemblyInfoInputs.cache
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.AssemblyInfo.cs
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.dll
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\refint\DuAn_QuanLyNhaHang.dll
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.pdb
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.genruntimeconfig.cache
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\ref\DuAn_QuanLyNhaHang.dll
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Properties.Resources.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form_DangKy.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form_TrangChu.resources
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\A_winform\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form_QuanLY.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.csproj.CopyComplete
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.User_MonAn.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form2test.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.QuanLy.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.UserC_ThongKe.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.UserQuanLyMonAn.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.ts.resources
+D:\A_winform\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Ban.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Ban.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form2test.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form_DangKy.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form_DangNhap.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form_QuanLY.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Form_TrangChu.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.Properties.Resources.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.QuanLy.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.ts.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.UserC_ThongKe.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.UserQuanLyMonAn.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.User_MonAn.resources
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.AssemblyInfoInputs.cache
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.AssemblyInfo.cs
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.dll
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\refint\DuAn_QuanLyNhaHang.dll
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.pdb
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.exe
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.deps.json
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.runtimeconfig.json
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.dll
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\DuAn_QuanLyNhaHang.pdb
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.csproj.CopyComplete
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\DuAn_QuanLyNhaHang.genruntimeconfig.cache
+D:\Lập Trình C#\Project_QLNH_HK3_2023\WinForm_QLNH\DuAn_QuanLyNhaHang\obj\Debug\net6.0-windows\ref\DuAn_QuanLyNhaHang.dll

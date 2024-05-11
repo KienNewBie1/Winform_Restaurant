@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Ban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_QuanLY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserC_ThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserQuanLyMonAn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_MonAn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
